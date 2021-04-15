@@ -4,6 +4,6 @@ from math import pi
 
 r = float(input('Escriba el radio del círculo: '))
 
-area = pi * r ** 2 ** 2
+area = pi * r ** 2
 
 print('El area del círculo es {0}'.format(area))
